@@ -1,0 +1,19 @@
+scenario 1
+
+Dodawanie elementu do koszyka
+
+1. Otworz przegladarke
+2. Wejdz na strone "https://www.komputronik.pl"
+3. Sprawdz tytul strony: 
+4. Sprawdz czy pojawia sie okienko z akceptacja ciasteczek
+	4a. Jezeli sie pojawia, nacisnij "Zgadzam sie na wszystko"
+5. Sprawdz czy pojawia sie okno o włączeniu powiadomień
+	5a. Jeżeli tak, nacisnij krzyżyk
+5. Wpisz w polu "Wpisz czego szukasz" sformułowanie "HP Victus"
+6. Sprawdz czy znalazlo jakies produkty - liczba produktow jest wieksza niz 0
+7. Kliknij na pierwszy produkt z listy
+9. Nacisnij przycisk "Do koszyka"
+10. Sprawdz czy pojawiło się okno z napisem "Ten produkt możesz kupić w promocji!"
+	10a Jezeli tak, nacisnij krzyżyk
+11. Sprawdź czy pojawiło się okno z napisem "Produkt dodany do koszyka"
+
