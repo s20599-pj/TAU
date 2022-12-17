@@ -25,7 +25,7 @@ jobs:
     - name: MVN ver
       run: mvn --version
     - name: Run tests with Maven
-      run: mvn clean test --file 4/pom.xml
+      run: mvn clean test --file 2/pom.xml
 
   build:
     runs-on: ubuntu-latest
